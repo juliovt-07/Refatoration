@@ -1,2 +1,2 @@
-# Refatora-o
+# Refatoration
 Exemplo de refatoração de código
